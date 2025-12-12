@@ -8,11 +8,10 @@ The program allows the user to filter data by **city, month, and day of the week
 - Most popular stations and trips
 - Trip durations
 - Bikeshare user information (user types, gender, birth year)
-- Optionally displays raw data 5 rows at a time  
-
+- Optionally displays raw data 5 rows at a time
+- 
 This project is implemented in **Python** and uses the **pandas** and **numpy** libraries for data manipulation and analysis.
 
----
 
 ## Files Used
 - `bikeshare.py` — main Python script that runs the program and performs analysis  
@@ -29,12 +28,11 @@ This project is implemented in **Python** and uses the **pandas** and **numpy** 
 4. Optionally, choose to display raw data 5 rows at a time.
 5. Restart the analysis if needed.
 
----
 
 ## Date Created
 - Date of project creation and initial README: `YYYY-MM-DD`  *(replace with actual date you created the project)*
 
----
+
 
 ## Credits
 - Inspired by Udacity’s **Data Analyst Nanodegree project repository**: [pdsnd_github](https://github.com/udacity/pdsnd_github)  
