@@ -1,5 +1,6 @@
 # Bikeshare Project
 
+
 ## Description
 This project is designed to explore and analyze US bikeshare data for three major cities: **Chicago, New York City, and Washington**.  
 The program allows the user to filter data by **city, month, and day of the week**, and it calculates and displays statistics on:
@@ -29,7 +30,7 @@ This project is implemented in **Python** and uses the **pandas** and **numpy** 
 
 
 ## Date Created
-- Date of project creation and initial README: `YYYY-MM-DD `  *(replace with actual date you created the project)*
+December 2025
 
 
 
@@ -38,4 +39,5 @@ This project is implemented in **Python** and uses the **pandas** and **numpy** 
 - Python documentation: [https://docs.python.org/3/](https://docs.python.org/3/)  
 - Pandas documentation: [https://pandas.pydata.org/docs/](https://pandas.pydata.org/docs/)  
 - Numpy documentation: [https://numpy.org/doc/](https://numpy.org/doc/)
+
 
