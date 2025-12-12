@@ -29,7 +29,7 @@ This project is implemented in **Python** and uses the **pandas** and **numpy** 
 
 
 ## Date Created
-- Date of project creation and initial README: `YYYY-MM-DD`  *(replace with actual date you created the project)*
+- Date of project creation and initial README: `YYYY-MM-DD `  *(replace with actual date you created the project)*
 
 
 
