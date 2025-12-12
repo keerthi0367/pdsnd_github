@@ -1,17 +1,44 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+# Bikeshare Project
 
-### Date created
-Include the date you created this project and README file.
+## Description
+This project is designed to explore and analyze US bikeshare data for three major cities: **Chicago, New York City, and Washington**.  
+The program allows the user to filter data by **city, month, and day of the week**, and it calculates and displays statistics on:
 
-### Project Title
-Replace the Project Title
+- Most frequent times of travel
+- Most popular stations and trips
+- Trip durations
+- Bikeshare user information (user types, gender, birth year)
+- Optionally displays raw data 5 rows at a time  
 
-### Description
-Describe what your project is about and what it does
+This project is implemented in **Python** and uses the **pandas** and **numpy** libraries for data manipulation and analysis.
 
-### Files used
-Include the files used
+---
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+## Files Used
+- `bikeshare.py` — main Python script that runs the program and performs analysis  
+- `chicago.csv` — dataset for Chicago bikeshare  
+- `new_york_city.csv` — dataset for New York City bikeshare  
+- `washington.csv` — dataset for Washington bikeshare  
+
+---
+
+## Usage
+1. Run the script `bikeshare.py` in Python 3.
+2. Follow the prompts to select a **city**, **month**, and **day**.
+3. View the calculated statistics.
+4. Optionally, choose to display raw data 5 rows at a time.
+5. Restart the analysis if needed.
+
+---
+
+## Date Created
+- Date of project creation and initial README: `YYYY-MM-DD`  *(replace with actual date you created the project)*
+
+---
+
+## Credits
+- Inspired by Udacity’s **Data Analyst Nanodegree project repository**: [pdsnd_github](https://github.com/udacity/pdsnd_github)  
+- Python documentation: [https://docs.python.org/3/](https://docs.python.org/3/)  
+- Pandas documentation: [https://pandas.pydata.org/docs/](https://pandas.pydata.org/docs/)  
+- Numpy documentation: [https://numpy.org/doc/](https://numpy.org/doc/)
 
