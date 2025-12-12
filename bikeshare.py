@@ -27,7 +27,7 @@ def get_filters():
         else:
             print("Invalid city. Please try again.\n")
 
-    # ----- Get user input for month -----
+    # ---- Get user input for month -----
     valid_months = ['january', 'february', 'march', 'april', 'may', 'june', 'all']
     while True:
         month = input("Choose a month (January–June) or 'all': ").strip().lower()
