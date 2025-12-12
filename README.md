@@ -19,7 +19,6 @@ This project is implemented in **Python** and uses the **pandas** and **numpy** 
 - `new_york_city.csv` — dataset for New York City bikeshare  
 - `washington.csv` — dataset for Washington bikeshare  
 
----
 
 ## Usage
 1. Run the script `bikeshare.py` in Python 3.
