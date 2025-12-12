@@ -10,7 +10,7 @@ CITY_DATA = {
 
 def get_filters():
     """
-    Asks user to specify  month, and day to analyze.
+    Asks user to   specify  month, and day to analyze.
 
     Returns:
         city (str): name of the city to analyze
