@@ -2,7 +2,7 @@
 
 
 ## Description
-Hi,
+hello,
 This project is designed to explore and analyze US bikeshare data for three major cities: **Chicago, New York City, and Washington**.  
 The program allows the user to filter data by **city, month, and day of the week**, and it calculates and displays statistics on:
 
